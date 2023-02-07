@@ -1,4 +1,4 @@
-/*Hasan Mutlu - 1801042673 - Lab 8*/
+/*Cesur Bayram Lab 8*/
 
 #include <stdio.h>
 #include <math.h>
